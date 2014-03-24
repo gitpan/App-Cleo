@@ -26,4 +26,4 @@ requires:
   warnings: 0
 resources:
   repository: https://github.com/thaljef/App-Cleo
-version: 0.003
+version: 0.004
